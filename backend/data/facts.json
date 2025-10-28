@@ -1,0 +1,22 @@
+{
+    "full_name": "Kiran Kumar Kilaru",
+    "name": "Kiran",
+    "current_role": "Mobile Applications Developer",
+    "location": "Tupelo, Mississippi, USA",
+    "email": "kilarukirankumar@gmail.com",
+    "linkedin": "linkedin.com/in/kilaru-kiran-1006858",
+    "specialties": [
+      "Mobile Applications Developer",
+      "Full-Stack Developer",
+      "Data Engineer",
+      "AI Engineer"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Bachelor of Technology in Computer Science and Engineering",
+        "institution": "Andhra University, Andhra Pradhesh, India",
+        "year": "2005"
+      }
+    ]
+  }
